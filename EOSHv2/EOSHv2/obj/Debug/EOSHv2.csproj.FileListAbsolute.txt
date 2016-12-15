@@ -1,0 +1,9 @@
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\bin\Debug\EOSHv2.exe.config
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\bin\Debug\EOSHv2.exe
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\bin\Debug\EOSHv2.pdb
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.csprojResolveAssemblyReference.cache
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.Form1.resources
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.Properties.Resources.resources
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.csproj.GenerateResource.Cache
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.exe
+G:\Downloads\eveassetthing\EOSH\EOSHv2\EOSHv2\obj\Debug\EOSHv2.pdb
